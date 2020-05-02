@@ -17,6 +17,7 @@ Run the following commands in any console of your choice.
 
 ```bash
 pip install -r requirements.txt
+
 python  download_textbooks.py
 ```
 
