@@ -9,7 +9,7 @@ Springer has released about 500 books* for free in lieu of the pandemic that we'
 Download all the files to a folder
 
 #### For Windows Users:
-Run the .bat file via console or double-clicking. 
+Run the download.bat file via console or double-clicking. 
 
 #### For Non-Windows Users:
 
