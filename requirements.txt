@@ -1,0 +1,4 @@
+pandas
+xlrd
+wget
+requests
